@@ -2,7 +2,7 @@
 A dockerized c development environment.
 
 ## Purpose and Usage
-Just a quick way to get developing without worrying too much about having the environment all set up. Just open a terminal to the direcotyr your code is in and do this:
+Just a quick way to get developing without worrying too much about having the environment all set up. Just open a terminal to the directory your code is in and do this:
 ```
 $ cdev
 ```
